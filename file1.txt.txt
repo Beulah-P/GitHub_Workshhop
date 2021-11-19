@@ -1,0 +1,5 @@
+Git Hub -Version control system
+Three types
+1.localised
+2.centralised
+3.distributed
